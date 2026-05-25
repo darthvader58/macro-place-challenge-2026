@@ -55,6 +55,8 @@ results/
 !benchmarks/processed/
 !benchmarks/processed/public/
 !benchmarks/processed/public/*.pt
+!submissions/partcl_2026/dp_init/
+!submissions/partcl_2026/dp_init/*.pt
 
 # Logs
 *.log
